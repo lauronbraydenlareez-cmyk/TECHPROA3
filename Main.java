@@ -1,5 +1,5 @@
 public class Main {
-Ppublic static void main(String[] args) {
+public static void main(String[] args) {
 System.out.println("SEATWORKFIVE");
 
 int countdown = 3;
